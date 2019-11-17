@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  UnicoptAR
 //
-//  Created by Kevin M. Thomas on 1/10/19.
+//  Created by Kevin Thomas on 1/10/19.
 //  Copyright © 2019 Kevin Thomas. All rights reserved.
 //
 
