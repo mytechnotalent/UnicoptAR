@@ -3,7 +3,7 @@
 //  UnicoptAR
 //
 //  Created by Kevin M. Thomas on 1/10/19.
-//  Copyright © 2019 Kevin M. Thomas. All rights reserved.
+//  Copyright © 2019 Kevin Thomas. All rights reserved.
 //
 
 import UIKit
