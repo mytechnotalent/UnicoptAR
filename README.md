@@ -1,3 +1,5 @@
+[![Watch The Video](https://img.youtube.com/vi/lIq8jgW-hQM/maxresdefault.jpg)](https://youtu.be/lIq8jgW-hQM)
+
 # UnicoptAR
 A fun augmented reality game where you get to shoot down two different kinds of unicopters that exist within your space!
 
